@@ -1,0 +1,143 @@
+﻿namespace ConnectingData
+{
+    partial class F_LoginMenu
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(F_LoginMenu));
+            this.pass_fld = new System.Windows.Forms.TextBox();
+            this.usr_nam_fld = new System.Windows.Forms.TextBox();
+            this.usr_nam_lbl = new System.Windows.Forms.Label();
+            this.pass_lbl = new System.Windows.Forms.Label();
+            this.sub_btn = new System.Windows.Forms.Button();
+            this.ext_btn = new System.Windows.Forms.Button();
+            this.wlcm_lbl = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // pass_fld
+            // 
+            this.pass_fld.Location = new System.Drawing.Point(211, 332);
+            this.pass_fld.Name = "pass_fld";
+            this.pass_fld.PasswordChar = '*';
+            this.pass_fld.Size = new System.Drawing.Size(276, 20);
+            this.pass_fld.TabIndex = 1;
+            // 
+            // usr_nam_fld
+            // 
+            this.usr_nam_fld.Location = new System.Drawing.Point(211, 289);
+            this.usr_nam_fld.Name = "usr_nam_fld";
+            this.usr_nam_fld.Size = new System.Drawing.Size(276, 20);
+            this.usr_nam_fld.TabIndex = 1;
+            // 
+            // usr_nam_lbl
+            // 
+            this.usr_nam_lbl.AutoSize = true;
+            this.usr_nam_lbl.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.usr_nam_lbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(177)));
+            this.usr_nam_lbl.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.usr_nam_lbl.Location = new System.Drawing.Point(292, 260);
+            this.usr_nam_lbl.Name = "usr_nam_lbl";
+            this.usr_nam_lbl.Size = new System.Drawing.Size(86, 16);
+            this.usr_nam_lbl.TabIndex = 2;
+            this.usr_nam_lbl.Text = "User Name";
+            // 
+            // pass_lbl
+            // 
+            this.pass_lbl.AutoSize = true;
+            this.pass_lbl.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.pass_lbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(177)));
+            this.pass_lbl.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pass_lbl.Location = new System.Drawing.Point(292, 312);
+            this.pass_lbl.Name = "pass_lbl";
+            this.pass_lbl.Size = new System.Drawing.Size(76, 16);
+            this.pass_lbl.TabIndex = 2;
+            this.pass_lbl.Text = "Password";
+            // 
+            // sub_btn
+            // 
+            this.sub_btn.Location = new System.Drawing.Point(211, 358);
+            this.sub_btn.Name = "sub_btn";
+            this.sub_btn.Size = new System.Drawing.Size(276, 23);
+            this.sub_btn.TabIndex = 3;
+            this.sub_btn.Text = "Submit";
+            this.sub_btn.UseVisualStyleBackColor = true;
+            this.sub_btn.Click += new System.EventHandler(this.sub_btn_Click);
+            // 
+            // ext_btn
+            // 
+            this.ext_btn.Location = new System.Drawing.Point(608, 350);
+            this.ext_btn.Name = "ext_btn";
+            this.ext_btn.Size = new System.Drawing.Size(48, 47);
+            this.ext_btn.TabIndex = 4;
+            this.ext_btn.Text = "Exit";
+            this.ext_btn.UseVisualStyleBackColor = true;
+            this.ext_btn.Click += new System.EventHandler(this.ext_btn_Click);
+            // 
+            // wlcm_lbl
+            // 
+            this.wlcm_lbl.AutoSize = true;
+            this.wlcm_lbl.BackColor = System.Drawing.Color.Transparent;
+            this.wlcm_lbl.Font = new System.Drawing.Font("Viner Hand ITC", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.wlcm_lbl.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.wlcm_lbl.Location = new System.Drawing.Point(230, 9);
+            this.wlcm_lbl.Name = "wlcm_lbl";
+            this.wlcm_lbl.Size = new System.Drawing.Size(185, 60);
+            this.wlcm_lbl.TabIndex = 5;
+            this.wlcm_lbl.Text = "Welcome";
+            // 
+            // F_LoginMenu
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(668, 409);
+            this.Controls.Add(this.wlcm_lbl);
+            this.Controls.Add(this.ext_btn);
+            this.Controls.Add(this.sub_btn);
+            this.Controls.Add(this.pass_lbl);
+            this.Controls.Add(this.usr_nam_lbl);
+            this.Controls.Add(this.usr_nam_fld);
+            this.Controls.Add(this.pass_fld);
+            this.Name = "F_LoginMenu";
+            this.Text = "Holy Land";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.TextBox pass_fld;
+        private System.Windows.Forms.TextBox usr_nam_fld;
+        private System.Windows.Forms.Label usr_nam_lbl;
+        private System.Windows.Forms.Label pass_lbl;
+        private System.Windows.Forms.Button sub_btn;
+        private System.Windows.Forms.Button ext_btn;
+        private System.Windows.Forms.Label wlcm_lbl;
+    }
+}

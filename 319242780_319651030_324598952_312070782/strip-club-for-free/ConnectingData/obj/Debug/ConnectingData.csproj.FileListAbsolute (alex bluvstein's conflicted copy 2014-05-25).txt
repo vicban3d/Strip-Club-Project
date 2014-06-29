@@ -1,0 +1,78 @@
+C:\Documents and Settings\Avner\Desktop\ConnectingData\bin\Debug\ConnectingData.exe.config
+C:\Documents and Settings\Avner\Desktop\ConnectingData\obj\Debug\ConnectingData.exe
+C:\Documents and Settings\Avner\Desktop\ConnectingData\obj\Debug\ConnectingData.pdb
+C:\Documents and Settings\Avner\Desktop\ConnectingData\bin\Debug\ConnectingData.exe
+C:\Documents and Settings\Avner\Desktop\ConnectingData\bin\Debug\ConnectingData.pdb
+C:\Documents and Settings\Avner\Desktop\ConnectingData\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Avner\Desktop\ConnectingData\obj\Debug\ConnectingData.FrmDeptDetails.resources
+C:\Documents and Settings\Avner\Desktop\ConnectingData\obj\Debug\ConnectingData.FrmMain.resources
+C:\Documents and Settings\Avner\Desktop\ConnectingData\obj\Debug\ConnectingData.Properties.Resources.resources
+C:\Documents and Settings\Avner\Desktop\ConnectingData\obj\Debug\ConnectingData.csproj.GenerateResource.Cache
+C:\Documents and Settings\Avner\Desktop\Lab9\ConnectingData\bin\Debug\ConnectingData.exe.config
+C:\Documents and Settings\Avner\Desktop\Lab9\ConnectingData\obj\Debug\ConnectingData.exe
+C:\Documents and Settings\Avner\Desktop\Lab9\ConnectingData\obj\Debug\ConnectingData.pdb
+C:\Documents and Settings\Avner\Desktop\Lab9\ConnectingData\bin\Debug\ConnectingData.exe
+C:\Documents and Settings\Avner\Desktop\Lab9\ConnectingData\bin\Debug\ConnectingData.pdb
+C:\Documents and Settings\Avner\Desktop\Lab9\ConnectingData\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Avner\Desktop\Lab9\ConnectingData\obj\Debug\ConnectingData.Properties.Resources.resources
+C:\Documents and Settings\Avner\Desktop\Lab9\ConnectingData\obj\Debug\ConnectingData.csproj.GenerateResource.Cache
+C:\Documents and Settings\Avner\Desktop\Lab9\ConnectingData\obj\Debug\ConnectingData.FormDepatments.resources
+C:\University\תכנות ויזואלי\מעבדות\lab9\Lab9\ConnectingData\bin\Debug\ConnectingData.exe.config
+C:\University\תכנות ויזואלי\מעבדות\lab9\Lab9\ConnectingData\obj\Debug\ConnectingData.exe
+C:\University\תכנות ויזואלי\מעבדות\lab9\Lab9\ConnectingData\obj\Debug\ConnectingData.pdb
+C:\University\תכנות ויזואלי\מעבדות\lab9\Lab9\ConnectingData\bin\Debug\ConnectingData.exe
+C:\University\תכנות ויזואלי\מעבדות\lab9\Lab9\ConnectingData\bin\Debug\ConnectingData.pdb
+C:\University\תכנות ויזואלי\מעבדות\lab9\Lab9\ConnectingData\obj\Debug\ResolveAssemblyReference.cache
+C:\University\תכנות ויזואלי\מעבדות\lab9\Lab9\ConnectingData\obj\Debug\ConnectingData.FormDepatments.resources
+C:\University\תכנות ויזואלי\מעבדות\lab9\Lab9\ConnectingData\obj\Debug\ConnectingData.Properties.Resources.resources
+C:\University\תכנות ויזואלי\מעבדות\lab9\Lab9\ConnectingData\obj\Debug\ConnectingData.csproj.GenerateResource.Cache
+D:\אליוסף\VS תרגול 2\lab7\ConnectingData\bin\Debug\ConnectingData.exe.config
+D:\אליוסף\VS תרגול 2\lab7\ConnectingData\obj\Debug\ConnectingData.exe
+D:\אליוסף\VS תרגול 2\lab7\ConnectingData\obj\Debug\ConnectingData.pdb
+C:\Users\Hanan\Documents\Hanan\לימודים\סמסטר ב שנה א\מבוא להנדסת תוכנה\פרוייקט\New folder\VisualStudioDB\lab7\ConnectingData\bin\Debug\ConnectingData.exe.config
+C:\Users\Hanan\Documents\Hanan\לימודים\סמסטר ב שנה א\מבוא להנדסת תוכנה\פרוייקט\New folder\VisualStudioDB\lab7\ConnectingData\obj\Debug\ConnectingData.exe
+C:\Users\Hanan\Documents\Hanan\לימודים\סמסטר ב שנה א\מבוא להנדסת תוכנה\פרוייקט\New folder\VisualStudioDB\lab7\ConnectingData\obj\Debug\ConnectingData.pdb
+C:\Users\Jacky\לימודים\סמסטר ב\מבוא להנדסת תוכנה\פרוייקט\New folder\VisualStudioDB\lab7\ConnectingData\bin\Debug\ConnectingData.exe.config
+C:\Users\Jacky\לימודים\סמסטר ב\מבוא להנדסת תוכנה\פרוייקט\New folder\VisualStudioDB\lab7\ConnectingData\obj\Debug\ConnectingData.exe
+C:\Users\Jacky\לימודים\סמסטר ב\מבוא להנדסת תוכנה\פרוייקט\New folder\VisualStudioDB\lab7\ConnectingData\obj\Debug\ConnectingData.pdb
+C:\Users\Jacky\לימודים\סמסטר ב\מבוא להנדסת תוכנה\פרוייקט\New folder\VisualStudioDB\lab7\ConnectingData\bin\Debug\ConnectingData.exe
+C:\Users\Jacky\לימודים\סמסטר ב\מבוא להנדסת תוכנה\פרוייקט\New folder\VisualStudioDB\lab7\ConnectingData\bin\Debug\ConnectingData.pdb
+C:\Users\Jacky\לימודים\סמסטר ב\מבוא להנדסת תוכנה\פרוייקט\New folder\VisualStudioDB\lab7\ConnectingData\obj\Debug\ConnectingData.csprojResolveAssemblyReference.cache
+C:\Users\Jacky\לימודים\סמסטר ב\מבוא להנדסת תוכנה\פרוייקט\New folder\VisualStudioDB\lab7\ConnectingData\obj\Debug\ConnectingData.Properties.Resources.resources
+C:\Users\Jacky\לימודים\סמסטר ב\מבוא להנדסת תוכנה\פרוייקט\New folder\VisualStudioDB\lab7\ConnectingData\obj\Debug\ConnectingData.csproj.GenerateResource.Cache
+C:\Users\Jacky\לימודים\סמסטר ב\מבוא להנדסת תוכנה\פרוייקט\New folder\VisualStudioDB\lab7\ConnectingData\obj\Debug\ConnectingData.main_form.resources
+C:\Users\Jacky\לימודים\סמסטר ב\מבוא להנדסת תוכנה\פרוייקט\New folder\VisualStudioDB\lab7\ConnectingData\obj\Debug\ConnectingData.owner_form.resources
+C:\Users\Jacky\לימודים\סמסטר ב\מבוא להנדסת תוכנה\פרוייקט\New folder\VisualStudioDB\lab7\ConnectingData\obj\Debug\ConnectingData.worker_form.resources
+F:\Hanan\Documents\Hanan\לימודים\סמסטר ד\ניתוח ועיצוב מערכות תוכנה\Assignment2\ConnectingData\bin\Debug\ConnectingData.exe.config
+F:\Hanan\Documents\Hanan\לימודים\סמסטר ד\ניתוח ועיצוב מערכות תוכנה\Assignment2\ConnectingData\obj\Debug\ConnectingData.exe
+F:\Hanan\Documents\Hanan\לימודים\סמסטר ד\ניתוח ועיצוב מערכות תוכנה\Assignment2\ConnectingData\obj\Debug\ConnectingData.pdb
+F:\Hanan\Documents\Hanan\לימודים\סמסטר ד\ניתוח ועיצוב מערכות תוכנה\Assignment2\ConnectingData\bin\Debug\ConnectingData.exe
+F:\Hanan\Documents\Hanan\לימודים\סמסטר ד\ניתוח ועיצוב מערכות תוכנה\Assignment2\ConnectingData\bin\Debug\ConnectingData.pdb
+F:\Hanan\Documents\Hanan\לימודים\סמסטר ד\ניתוח ועיצוב מערכות תוכנה\Assignment2\ConnectingData\obj\Debug\ConnectingData.csprojResolveAssemblyReference.cache
+F:\Hanan\Documents\Hanan\לימודים\סמסטר ד\ניתוח ועיצוב מערכות תוכנה\Assignment2\ConnectingData\obj\Debug\ConnectingData.main_form.resources
+F:\Hanan\Documents\Hanan\לימודים\סמסטר ד\ניתוח ועיצוב מערכות תוכנה\Assignment2\ConnectingData\obj\Debug\ConnectingData.owner_form.resources
+F:\Hanan\Documents\Hanan\לימודים\סמסטר ד\ניתוח ועיצוב מערכות תוכנה\Assignment2\ConnectingData\obj\Debug\ConnectingData.Properties.Resources.resources
+F:\Hanan\Documents\Hanan\לימודים\סמסטר ד\ניתוח ועיצוב מערכות תוכנה\Assignment2\ConnectingData\obj\Debug\ConnectingData.worker_form.resources
+F:\Hanan\Documents\Hanan\לימודים\סמסטר ד\ניתוח ועיצוב מערכות תוכנה\Assignment2\ConnectingData\obj\Debug\ConnectingData.csproj.GenerateResource.Cache
+C:\GABI\מחשבים\הנדסת תכנה\סמסטר ד\ניתוח ועיצוב\עבודות\HolyLand\ConnectingData\bin\Debug\ConnectingData.exe.config
+C:\GABI\מחשבים\הנדסת תכנה\סמסטר ד\ניתוח ועיצוב\עבודות\HolyLand\ConnectingData\obj\Debug\ConnectingData.exe
+C:\GABI\מחשבים\הנדסת תכנה\סמסטר ד\ניתוח ועיצוב\עבודות\HolyLand\ConnectingData\obj\Debug\ConnectingData.pdb
+C:\GABI\מחשבים\הנדסת תכנה\סמסטר ד\ניתוח ועיצוב\עבודות\HolyLand\ConnectingData\bin\Debug\ConnectingData.exe
+C:\GABI\מחשבים\הנדסת תכנה\סמסטר ד\ניתוח ועיצוב\עבודות\HolyLand\ConnectingData\bin\Debug\ConnectingData.pdb
+C:\GABI\מחשבים\הנדסת תכנה\סמסטר ד\ניתוח ועיצוב\עבודות\HolyLand\ConnectingData\obj\Debug\ConnectingData.csprojResolveAssemblyReference.cache
+C:\GABI\מחשבים\הנדסת תכנה\סמסטר ד\ניתוח ועיצוב\עבודות\HolyLand\ConnectingData\obj\Debug\ConnectingData.main_form.resources
+C:\GABI\מחשבים\הנדסת תכנה\סמסטר ד\ניתוח ועיצוב\עבודות\HolyLand\ConnectingData\obj\Debug\ConnectingData.owner_form.resources
+C:\GABI\מחשבים\הנדסת תכנה\סמסטר ד\ניתוח ועיצוב\עבודות\HolyLand\ConnectingData\obj\Debug\ConnectingData.Properties.Resources.resources
+C:\GABI\מחשבים\הנדסת תכנה\סמסטר ד\ניתוח ועיצוב\עבודות\HolyLand\ConnectingData\obj\Debug\ConnectingData.worker_form.resources
+C:\GABI\מחשבים\הנדסת תכנה\סמסטר ד\ניתוח ועיצוב\עבודות\HolyLand\ConnectingData\obj\Debug\ConnectingData.csproj.GenerateResource.Cache
+C:\Users\Jacky\Dropbox\פרוייקט ללא מטרות רווח\ConnectingData\bin\Debug\ConnectingData.exe.config
+C:\Users\Jacky\Dropbox\פרוייקט ללא מטרות רווח\ConnectingData\obj\Debug\ConnectingData.exe
+C:\Users\Jacky\Dropbox\פרוייקט ללא מטרות רווח\ConnectingData\obj\Debug\ConnectingData.pdb
+C:\Users\Jacky\Dropbox\פרוייקט ללא מטרות רווח\ConnectingData\bin\Debug\ConnectingData.exe
+C:\Users\Jacky\Dropbox\פרוייקט ללא מטרות רווח\ConnectingData\bin\Debug\ConnectingData.pdb
+C:\Users\Jacky\Dropbox\פרוייקט ללא מטרות רווח\ConnectingData\obj\Debug\ConnectingData.csprojResolveAssemblyReference.cache
+C:\Users\Jacky\Dropbox\פרוייקט ללא מטרות רווח\ConnectingData\obj\Debug\ConnectingData.main_form.resources
+C:\Users\Jacky\Dropbox\פרוייקט ללא מטרות רווח\ConnectingData\obj\Debug\ConnectingData.owner_form.resources
+C:\Users\Jacky\Dropbox\פרוייקט ללא מטרות רווח\ConnectingData\obj\Debug\ConnectingData.Properties.Resources.resources
+C:\Users\Jacky\Dropbox\פרוייקט ללא מטרות רווח\ConnectingData\obj\Debug\ConnectingData.worker_form.resources
+C:\Users\Jacky\Dropbox\פרוייקט ללא מטרות רווח\ConnectingData\obj\Debug\ConnectingData.csproj.GenerateResource.Cache

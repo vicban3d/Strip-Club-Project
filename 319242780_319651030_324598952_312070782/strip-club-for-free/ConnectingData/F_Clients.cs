@@ -1,0 +1,100 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Data.SqlClient;
+using System.Drawing;
+using System.Text;
+using System.Text.RegularExpressions;
+using System.Windows.Forms;
+using Business;
+namespace ConnectingData
+{
+    public partial class F_Clients : Form
+    {
+        public F_Clients()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Program.FormController.F_clients.Hide();
+            Program.FormController.F_employees.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            double id;
+            bool flag = Double.TryParse(textBox1.Text, out id);
+            if (!(Regex.IsMatch(textBox2.Text, @"^[a-zA-Z]+$")) || !(Regex.IsMatch(textBox3.Text, @"^[a-zA-Z]+$")))
+            {
+                MessageBox.Show("Please Enter Only Characters");
+                return;
+            }
+            if (flag)
+            {
+
+                if (!BusinessLayer.Update("Barmen_Waiters", "ID, Full Name, Phone Number", string.Format("{0}, {1}, {2}", textBox1.Text, textBox2.Text, textBox3.Text)))
+                {
+                    MessageBox.Show("Failed to Edit.");
+                }
+            }
+            else
+            {
+                MessageBox.Show("Please enter only numbers");
+            }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            double id;
+            bool flag = Double.TryParse(textBox1.Text, out id);
+            if (flag)
+            {
+
+                if (!BusinessLayer.Delete("Barmen_Waiters", string.Format("ID = {0}", textBox1.Text)))
+                {
+                    MessageBox.Show("Failed to Delete.");
+                }
+            }
+            else
+            {
+                MessageBox.Show("Please enter only numbers");
+            }
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            double id;
+            bool flag = Double.TryParse(textBox1.Text, out id);
+            if (!(Regex.IsMatch(textBox2.Text, @"^[a-zA-Z]+$")) || !(Regex.IsMatch(textBox4.Text, @"^[a-zA-Z]+$")))
+            {
+                MessageBox.Show("Please Enter Only Characters");
+                return;
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            double id;
+            bool flag = Double.TryParse(textBox1.Text, out id);
+            if (!(Regex.IsMatch(textBox2.Text, @"^[a-zA-Z]+$")) || !(Regex.IsMatch(textBox3.Text, @"^[a-zA-Z]+$")))
+            {
+                MessageBox.Show("Please Enter Only Characters");
+                return;
+            }
+            if (flag)
+            {
+                if (!BusinessLayer.Insert("Barmen_Waiters", "ID, Full Name, Phone Number", string.Format("{0}, {1}, {2}", textBox1.Text, textBox2.Text, textBox3.Text)))
+                {
+                    MessageBox.Show("Failed to Add.");
+                }
+            }
+            else
+            {
+                MessageBox.Show("Please enter only numbers");
+            }
+        }
+    }
+}

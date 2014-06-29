@@ -1,0 +1,99 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Data.SqlClient;
+using System.Drawing;
+using System.Text;
+using System.Text.RegularExpressions;
+using System.Windows.Forms;
+
+namespace ConnectingData
+{
+    public partial class F_SecurityGuards : Form
+    {
+
+        public F_SecurityGuards()
+        {
+            InitializeComponent();
+        }
+        private void button4_Click(object sender, EventArgs e)
+        {
+            double id;
+            bool flag = Double.TryParse(textBox1.Text, out id);
+            if (!(Regex.IsMatch(textBox2.Text, @"^[a-z A-Z]+$")) || !(Double.TryParse(textBox3.Text, out id)))
+            {
+            MessageBox.Show("Please Enter Only Characters");
+                return;
+            }
+            if (flag)
+            {
+                bool succ = BusinessLayer.Insert("Security","ID, Full_Name, Phone_Number",string.Format("{0}, '{1}', '{2}'",textBox1.Text,textBox2.Text,textBox3.Text));
+
+                if (succ) { MessageBox.Show(string.Format("Guard with ID {0} Added", textBox1.Text)); }
+                else { MessageBox.Show("No guard with such ID"); }
+            }
+            else { MessageBox.Show("Please enter only numbers"); }
+        }
+        private void button5_Click(object sender, EventArgs e)
+        {
+            double id;
+            bool flag = Double.TryParse(textBox1.Text, out id);
+            if (!(Regex.IsMatch(textBox2.Text, @"^[a-z A-Z]+$")) || !(Double.TryParse(textBox3.Text, out id)))
+            {
+                MessageBox.Show("Please Enter Only Characters");
+                return;
+            }
+            if (flag)
+            {
+                bool succ = BusinessLayer.Update("Security", string.Format("Full_Name = '{0}', Phone_Number = '{1}'", textBox2.Text, textBox3.Text), string.Format("ID = {0}", textBox1.Text));
+
+                if (succ) { MessageBox.Show(string.Format("Guard with ID {0} updated", textBox1.Text)); }
+                else { MessageBox.Show("No guard with such ID"); }
+            }
+            else { MessageBox.Show("Please enter only numbers"); }
+        }
+        private void button6_Click(object sender, EventArgs e)
+        {
+            double id;
+            bool flag = Double.TryParse(textBox1.Text, out id);
+            if (flag)
+            {
+                bool succ = BusinessLayer.Delete("Security", string.Format("ID = {0}", textBox1.Text)); 
+                if (succ) { MessageBox.Show(string.Format("Guard with ID {0} deleted", textBox1.Text)); }
+                else { MessageBox.Show("No guard with such ID"); }
+                
+            }
+            else { MessageBox.Show("Please enter only numbers"); }
+        }
+        private void button2_Click(object sender, EventArgs e)
+        {
+            double id;
+            bool flag = Double.TryParse(textBox1.Text, out id);
+            DateTime date;
+            bool flag2 = DateTime.TryParse(textBox4.Text, out date);
+            if (flag && flag2)
+            {
+                bool succ = BusinessLayer.AssignShift(textBox1.Text, textBox4.Text);
+                if (succ) {MessageBox.Show(string.Format("Guard with ID {0} was assigned a shift", textBox1.Text)); }
+                else {MessageBox.Show("Guard has been already assigned a shift that day"); }
+            }
+            else {MessageBox.Show("Please enter only numbers and a valid date (dd/mm/yyyy)"); }
+        }
+
+
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Program.FormController.F_security.Hide();
+            Program.FormController.F_managers.Show();
+        }
+
+       
+
+
+
+
+
+    }
+}

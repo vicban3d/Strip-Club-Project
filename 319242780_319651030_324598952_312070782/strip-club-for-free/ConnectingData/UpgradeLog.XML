@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ConnectingData">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Avner\Desktop\ConnectingData\ConnectingData.sln">
+</Property><Property Name="Date" Value="יום ראשון 01 פברואר 2009">
+</Property><Property Name="Time" Value="09:40:29">
+</Property></Properties><Event ErrorLevel="0" Project="ConnectingData" Source="ConnectingData.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Avner\Desktop\ConnectingData\Backup\ConnectingData.csproj">
+</Event><Event ErrorLevel="0" Project="ConnectingData" Source="AdoHelper.cs" Description="File successfully backed up as C:\Documents and Settings\Avner\Desktop\ConnectingData\Backup\AdoHelper.cs">
+</Event><Event ErrorLevel="0" Project="ConnectingData" Source="DataAccessLayer.cs" Description="File successfully backed up as C:\Documents and Settings\Avner\Desktop\ConnectingData\Backup\DataAccessLayer.cs">
+</Event><Event ErrorLevel="0" Project="ConnectingData" Source="FrmDeptDetails.cs" Description="File successfully backed up as C:\Documents and Settings\Avner\Desktop\ConnectingData\Backup\FrmDeptDetails.cs">
+</Event><Event ErrorLevel="0" Project="ConnectingData" Source="FrmDeptDetails.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Avner\Desktop\ConnectingData\Backup\FrmDeptDetails.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ConnectingData" Source="FrmMain.cs" Description="File successfully backed up as C:\Documents and Settings\Avner\Desktop\ConnectingData\Backup\FrmMain.cs">
+</Event><Event ErrorLevel="0" Project="ConnectingData" Source="FrmMain.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Avner\Desktop\ConnectingData\Backup\FrmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ConnectingData" Source="Program.cs" Description="File successfully backed up as C:\Documents and Settings\Avner\Desktop\ConnectingData\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConnectingData" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Avner\Desktop\ConnectingData\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConnectingData" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Avner\Desktop\ConnectingData\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ConnectingData" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Avner\Desktop\ConnectingData\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ConnectingData" Source="app.config" Description="File successfully backed up as C:\Documents and Settings\Avner\Desktop\ConnectingData\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="ConnectingData" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\Avner\Desktop\ConnectingData\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ConnectingData" Source="FrmDeptDetails.resx" Description="File successfully backed up as C:\Documents and Settings\Avner\Desktop\ConnectingData\Backup\FrmDeptDetails.resx">
+</Event><Event ErrorLevel="0" Project="ConnectingData" Source="FrmMain.resx" Description="File successfully backed up as C:\Documents and Settings\Avner\Desktop\ConnectingData\Backup\FrmMain.resx">
+</Event><Event ErrorLevel="0" Project="ConnectingData" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\Avner\Desktop\ConnectingData\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ConnectingData" Source="ConnectingData.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConnectingData" Source="ConnectingData.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConnectingData" Source="ConnectingData.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

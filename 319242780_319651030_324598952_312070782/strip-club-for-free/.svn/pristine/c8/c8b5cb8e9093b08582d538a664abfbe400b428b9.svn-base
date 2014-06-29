@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Text;
+using System.Windows.Forms;
+
+namespace ConnectingData
+{
+    public partial class F_Orders : Form
+    {
+        public F_Orders()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Program.FormController.F_orders.Hide();
+            Program.FormController.F_managers.Show();
+        }
+    }
+}
